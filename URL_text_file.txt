@@ -1,0 +1,16 @@
+http://www.huffingtonpost.com/feeds/verticals/world/index.xml
+http://news.yahoo.com/rss/us
+http://feeds.skynews.com/feeds/rss/uk.xml
+http://feeds.reuters.com/Reuters/domesticNews
+http://feeds.reuters.com/reuters/businessNews
+http://www.independent.co.uk/news/business/rss
+https://www.standard.co.uk/news/rss
+http://www.dailymail.co.uk/news/index.rss
+http://online.wsj.com/xml/rss/3_7031.xml
+https://blogs.wsj.com/moneybeat/category/europe/feed/?mod=WSJ_moneybeat_blog
+https://www.telegraph.co.uk/news/rss.xml
+http://www.ibtimes.co.uk/rss/uk
+https://www.huffingtonpost.co.uk/feeds/index.xml
+https://who-called.co.uk/Number/014125819201
+
+
