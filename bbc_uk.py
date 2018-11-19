@@ -1,3 +1,14 @@
+###############################################################
+#                                                             #
+#  Module Name : bbc_uk              PROJECT:  AIML-1         #
+#  Jira Ref: GS-224                 Date Created:19 Jul 2018  #
+#=============================================================#
+# Latest Update:  12 November 2018       Resource: GSL        #
+# Notes:                                                      #
+# ============================================================#
+# Update:  9 Jul 2018                 Resource: AS            #
+# Notes: Module for screen text scraping                      #
+# ============================================================#
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jul 19 15:52:16 2018
